@@ -2,12 +2,11 @@
 
 > A lightweight, customizable and animated ⚛️ react floating buttons
 
-[![NPM](https://img.shields.io/npm/v/react-floating-buttons.svg)](https://www.npmjs.com/package/react-floating-buttons) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save react-floating-buttons
+npm install --save react-floating-buttons-lleaotech
 ```
 
 ## Usage
@@ -15,7 +14,7 @@ npm install --save react-floating-buttons
 ```jsx
 import React, { Component } from 'react'
 
-import FloatingButtons from 'react-floating-buttons'
+import FloatingButtons from 'react-floating-buttons-lleaotech'
 
 import icon1 from  './assets/icon1.svg'
 import icon2 from  './assets/icon2.svg'
@@ -71,7 +70,7 @@ class Example extends Component {
 
 ##### buttonColor
 
-`type:  string, isRequired: false, default: '#313131'`	
+`type:  string, isRequired: false, default: '#313131'`
 
 ​	The toggler button color  ( the dots color, the plus color ... )
 
@@ -111,7 +110,7 @@ class Example extends Component {
 
 To run the exemple you need to:
 
--   clone this repo: `git clone https://github.com/AM-77/react-floating-buttons.git`
+-   clone this repo: `git clone https://github.com/lleaotech/react-floating-buttons-lleaotech.git`
 -   inside the react-floating-buttons folder run: `yarn` or `npm i`
 -   inside the example folder run: `yarn` or `npm i` then run: `yarn start` or `npm start`
 
@@ -156,11 +155,11 @@ To run the exemple you need to:
 Feel free to raise an [Issue](https://github.com/AM-77/react-floating-buttons/issues) or submit a [PR](https://github.com/AM-77/react-floating-buttons/pulls).
 
 
-## Inspired From 
+## Inspired From
 
 [na6im/react-floating-button](https://github.com/na6im/react-floating-button)
 
 
 ## Copyright and license
 
-Code copyright 2019 AM-77. Code released under [MIT license](https://github.com/AM-77/react-floating-buttonss/blob/master/LICENSE).
+Code copyright 2019 AM-77. Code released under [MIT license].
